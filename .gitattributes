@@ -1,0 +1,2 @@
+# Menetapkan format baris untuk file tertentu
+*.htaccess text eol=lf
